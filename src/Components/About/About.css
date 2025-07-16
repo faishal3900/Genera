@@ -1,0 +1,39 @@
+.about {
+    width: 100%;
+
+    color: rgb(0, 0, 0);
+}
+
+.about .about-hearding h1 {
+    font-size: 122px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 50px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
+.about-main {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.about-main .about-anim {
+    width: 50%;
+}
+
+.about-main .about-anim img {
+    width: max(670px);
+    height: 257px;
+}
+
+.about-main .about-anim-p {
+    width: max(40%);
+}
+
+.about-main .about-anim-p p {
+    margin: 50px 0px;
+    font-size: 30px;
+}

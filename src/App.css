@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url(".\assets\Fonts\CamptonBook.otf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.custom-text {
+    font-family: "CustomFont", sans-serif;
+}
+
+.app {
+    width: 100%;
+}

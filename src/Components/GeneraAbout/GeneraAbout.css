@@ -1,0 +1,29 @@
+.genera-about {
+    background-color: black;
+    color: white;
+    width: 100%;
+
+    gap: 140px;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    padding: 60px 150px 80px 80px;
+}
+
+.genera-about .genera-about-heading {
+    text-transform: uppercase;
+    text-align: right;
+    font-size: 55px;
+    font-weight: 900;
+
+    line-height: 120px;
+    letter-spacing: -1px;
+}
+
+.genera-about .genera-about-pera {
+    font-size: 40px;
+    text-align: left;
+    letter-spacing: -1px;
+    line-height: 45px;
+    font-weight: 900;
+}

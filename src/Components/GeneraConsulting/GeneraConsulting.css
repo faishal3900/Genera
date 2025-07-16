@@ -1,0 +1,28 @@
+.Genera-consulting {
+    background-color: black;
+    color: white;
+}
+
+.Genera-consulting-heading {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+    width: 500px;
+    line-height: 120px;
+    margin-left: 70px;
+    padding-top: 70px;
+}
+
+.Genera-consulting-heading-2 {
+    margin-left: 80px;
+    padding-top: 95px;
+    font-size: max(1vw, 22px);
+    width: 89%;
+}
+
+.Genera-consulting-heading-2 p {
+    margin-top: 30px;
+    font-size: max(1vw, 24px);
+    line-height: 40px;
+    padding-bottom: 70px;
+}

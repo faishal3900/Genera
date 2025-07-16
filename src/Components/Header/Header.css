@@ -1,0 +1,47 @@
+.Header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+
+}
+
+.Header>h1 {
+    width: 70%;
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: max(2.5vw, 40px);
+}
+
+.header-main {
+    text-align: center;
+    position: relative;
+    width: 80%;
+    margin: 0px 64px;
+}
+
+
+
+.header-main h1 {
+    font-size: max(20vw, 300px);
+}
+
+#scroll-anim {
+    transition: 1s;
+    text-align: center;
+
+}
+
+.header-main h1::after {
+    content: "";
+    position: absolute;
+    right: -40px;
+    top: 20px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-image: url('C:\Users\ali\OneDrive\Desktop\New Project\genera\src\assets\genera-copy.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
