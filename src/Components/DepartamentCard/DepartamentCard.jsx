@@ -1,5 +1,5 @@
 import React from 'react'
-import './DepartamentCard.css'
+import './departamentCardCss.css'
 import { assets } from '../../assets/assets'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 

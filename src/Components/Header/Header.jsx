@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './Header.css'
+import './headerCss.css'
 import { assets } from '../../assets/assets'
 import { AnimatePresence, motion, useScroll, useTransform } from 'framer-motion'
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import './GeneraConsulting.css'
+import './generaConsultingCss.css'
 
 const GeneraConsulting = () => {
     return (

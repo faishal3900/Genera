@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import Card from './Card'
-import "./Card.css"
+import "./cardCss.css"
 
 const MoreCard = () => {
 

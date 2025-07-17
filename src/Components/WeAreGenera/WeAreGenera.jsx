@@ -1,6 +1,6 @@
 
 import React from 'react'
-import "./WeAreGenera.css"
+import "./weAreGeneraCss.css"
 
 const WeAreGenera = () => {
     return (

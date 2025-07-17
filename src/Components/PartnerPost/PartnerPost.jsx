@@ -1,6 +1,6 @@
 
 import React from 'react'
-import "./PartnerPost.css"
+import "./partnerPostCss.css"
 
 const WeAreGenera = () => {
     return (

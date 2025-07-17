@@ -1,5 +1,5 @@
 import React from 'react'
-import "./GeneraAbout.css"
+import "./generaAboutCss.css"
 
 const GeneraAbout = () => {
     return (

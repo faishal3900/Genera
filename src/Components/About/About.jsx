@@ -1,5 +1,5 @@
 import React from 'react'
-import './About.css'
+import './aboutCss.css'
 import { assets } from '../../assets/assets'
 import { motion, useScroll, useTransform } from 'framer-motion'
 
