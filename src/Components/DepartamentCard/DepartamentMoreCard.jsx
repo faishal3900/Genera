@@ -1,7 +1,7 @@
 import React from 'react'
 import DepartamentCard from './DepartamentCard'
-import './DepartamentCard.css'
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward'; 
+import './departamentCardCss.css'
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import { assets } from '../../assets/assets'
 
 const DepartamentMoreCard = () => {
